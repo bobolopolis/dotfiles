@@ -1,1 +1,1 @@
-nnoremap <F2> my:%s/\s\+$//<CR>`y
+nnoremap <F2> :%s/\s\+$//e
